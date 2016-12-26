@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webtes-apps.iml" filepath="$PROJECT_DIR$/.idea/modules/webtes-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webtes-apps_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webtes-apps_main.iml" group="webtes-apps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webtes-apps_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webtes-apps_test.iml" group="webtes-apps" />
+    </modules>
+  </component>
+</project>

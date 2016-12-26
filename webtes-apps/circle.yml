@@ -1,0 +1,16 @@
+## Customize the test machine
+machine:
+  # Version of java to use
+  java:
+    version: oraclejdk8
+
+## Customize test commands
+test:
+  pre:
+  override:
+    - ./gradlew test
+
+notify:
+  webhooks:
+    - url: http://cs3134-jarvis.meteor.com/webhook/ci
+Contact GitHub API Training Shop Blog About
