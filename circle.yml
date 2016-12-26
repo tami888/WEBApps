@@ -8,7 +8,7 @@ machine:
 test:
   pre:
   override:
-    - ./gradlew test
+    - ./webtes-apps/gradlew test
 
 notify:
   webhooks:
