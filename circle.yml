@@ -12,5 +12,3 @@ test:
 
 notify:
   webhooks:
-    - url: http://cs3134-jarvis.meteor.com/webhook/ci
-Contact GitHub API Training Shop Blog About
